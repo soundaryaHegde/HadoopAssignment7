@@ -1,0 +1,2 @@
+# HadoopAssignment7
+PigConcepts
